@@ -3,4 +3,5 @@
 学习数据结构过程中的相关笔记和程序
 现实现主要用C++
 end
-my email:holdbalance@foxmai.com
+my email:
+holdbalance@foxmai.com
