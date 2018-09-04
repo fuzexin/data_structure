@@ -1,7 +1,5 @@
-# This repository is about my note and code in learning data structure.
-# implement by C++ now.
-学习数据结构过程中的相关笔记和程序
-现实现主要用C++
+# This repository is about my note and code
+# implement by C++.
 end
 my email:
-holdbalance@foxmai.com
+holdbalance@foxmail.com
